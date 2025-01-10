@@ -17,6 +17,11 @@ Desenvolvimento de projetos relevantes, como o de Data Wrangling da Loggi, onde 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Analise-de-dados-de-logistica-Python&theme=dark)](https://github.com/CaueSiqueira/Analise-de-dados-de-logistica-Python)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=SQL-Credit-Analysis&theme=dark)](https://github.com/CaueSiqueira/SQL-Credit-Analysis)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Taxa-CDI-Python&theme=dark)](https://github.com/CaueSiqueira/Taxa-CDI-Python)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=EBAC-Analise-de-dados&theme=dark)](https://github.com/CaueSiqueira/EBAC-Analise-de-dados)
 
 
 ### Linguagens utilizadas
