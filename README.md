@@ -15,7 +15,8 @@ Desenvolvimento de projetos relevantes, como o de Data Wrangling da Loggi, onde 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=SQL-Credit-Analysis.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Analise-de-dados-de-logistica-Python&theme=dark)](https://github.com/CaueSiqueira/Analise-de-dados-de-logistica-Python)
+
 
 
 ### Linguagens utilizadas
