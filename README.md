@@ -27,7 +27,8 @@ Desenvolvimento de projetos relevantes, como o de Data Wrangling da Loggi, onde 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=EBAC-Analise-de-dados&theme=dark)](https://github.com/CaueSiqueira/Covid-Dashboard)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Analise-de-dados-de-logistica-Python&theme=dark)](https://github.com/CaueSiqueira/Covid-Dashboard)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Analise-de-dados-de-logistica-Python&theme=dark)](https://github.com/CaueSiqueira/Analise-de-dados-de-logistica-Python)
 
