@@ -27,6 +27,7 @@ Desenvolvimento de projetos relevantes, como o de Data Wrangling da Loggi, onde 
 
 ### Projetos
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Pipeline-de-dados-Telegram&theme=dark)](https://github.com/CaueSiqueira/Pipeline-de-dados-Telegram)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Covid-Dashboard&theme=dark)](https://github.com/CaueSiqueira/Covid-Dashboard)
 
