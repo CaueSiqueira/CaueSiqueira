@@ -1,13 +1,8 @@
 ### Olá 👋
 
 ###### Sobre o Cauê
-Analista de dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
-
-Tenho experiência com Excel em tratamento e limpeza de dados brutos, análise e identificação de padrões para prevenção de fraude, além de experiência na criação de dashboards.
-
-Desenvolvimento de projetos relevantes, como o de Data Wrangling da Loggi, onde tratei e visualizei dados logísticos utilizando Pandas, Matplotlib e Seaborn, além de usar Geopandas para aprimorar a visualização das coordenadas. Outro projeto envolveu a captura e transformação de dados da Taxa CDI em JSON para uma visualização mais eficaz. Também fiz um projeto de análise de crédito, mapeando informações de clientes e transformando os dados para análise em SQL e Power BI.
-
-
+Analista de dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília. Profissional comunicativo, analítico e com pensamento crítico.
+Tenho experiência com Excel em tratamento e limpeza de dados brutos, análise e identificação de padrões para prevenção de fraude, além de experiência na criação de dashboards. Desenvolvimento de projetos relevantes, como o de Data Wrangling da Loggi, onde tratei e visualizei dados logísticos utilizando Pandas, Matplotlib e Seaborn, além de usar Geopandas para aprimorar a visualização das coordenadas. Outro projeto envolveu a captura e transformação de dados de Covid gerando um dashboard interativo no Looker. Também fiz um projeto de Pipeline de dados no Telegram com o objetivo de coletar mensagens e as transformar em uma visualização tabular.
 
 ### Detalhes
 
