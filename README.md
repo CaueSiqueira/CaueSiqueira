@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Cauê
-Analista de dados em formação pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
+Analista de dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
 
 Tenho experiência com Excel em tratamento e limpeza de dados brutos, análise e identificação de padrões para prevenção de fraude, além de experiência na criação de dashboards.
 
