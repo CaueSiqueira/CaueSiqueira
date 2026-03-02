@@ -21,17 +21,58 @@ Tenho experiência com Excel em tratamento e limpeza de dados brutos, análise e
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Pipeline-de-dados-Telegram&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/Pipeline-de-dados-Telegram)
+### 🚀 Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Covid-Dashboard&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/Covid-Dashboard)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Analise-de-dados-de-logistica-Python&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/Analise-de-dados-de-logistica-Python)
+### 📊 Pipeline de Dados Telegram  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/API-005571?style=for-the-badge)
+![Data Pipeline](https://img.shields.io/badge/Data_Pipeline-1f425f?style=for-the-badge)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=SQL-Credit-Analysis&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/SQL-Credit-Analysis)
+🔗 https://github.com/CaueSiqueira/Pipeline-de-dados-Telegram  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Taxa-CDI-Python&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/Taxa-CDI-Python)
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=EBAC-Analise-de-dados&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/EBAC-Analise-de-dados)
+### 🦠 Covid Dashboard  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)
+
+🔗 https://github.com/CaueSiqueira/Covid-Dashboard  
+
+---
+
+### 🚚 Análise de Dados de Logística  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Geopandas](https://img.shields.io/badge/Geopandas-008000?style=for-the-badge)
+
+🔗 https://github.com/CaueSiqueira/Analise-de-dados-de-logistica-Python  
+
+---
+
+### 💳 SQL Credit Analysis  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+🔗 https://github.com/CaueSiqueira/SQL-Credit-Analysis  
+
+---
+
+### 📈 Taxa CDI Python  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+🔗 https://github.com/CaueSiqueira/Taxa-CDI-Python  
+
+---
+
+### 🎓 EBAC Análise de Dados  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-1f425f?style=for-the-badge)
+
+🔗 https://github.com/CaueSiqueira/EBAC-Analise-de-dados  
 
 ### Linguagens utilizadas
 
