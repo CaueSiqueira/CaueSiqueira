@@ -21,17 +21,17 @@ Tenho experiência com Excel em tratamento e limpeza de dados brutos, análise e
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Pipeline-de-dados-Telegram&theme=dark&cache_seconds=86400)](https://github.com/CaueSiqueira/Pipeline-de-dados-Telegram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Pipeline-de-dados-Telegram&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/Pipeline-de-dados-Telegram)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Covid-Dashboard&theme=dark&cache_seconds=86400)](https://github.com/CaueSiqueira/Covid-Dashboard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Covid-Dashboard&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/Covid-Dashboard)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Analise-de-dados-de-logistica-Python&theme=dark&cache_seconds=86400)](https://github.com/CaueSiqueira/Analise-de-dados-de-logistica-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Analise-de-dados-de-logistica-Python&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/Analise-de-dados-de-logistica-Python)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=SQL-Credit-Analysis&theme=dark&cache_seconds=86400)](https://github.com/CaueSiqueira/SQL-Credit-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=SQL-Credit-Analysis&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/SQL-Credit-Analysis)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Taxa-CDI-Python&theme=dark&cache_seconds=86400)](https://github.com/CaueSiqueira/Taxa-CDI-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=Taxa-CDI-Python&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/Taxa-CDI-Python)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=EBAC-Analise-de-dados&theme=dark&cache_seconds=86400)](https://github.com/CaueSiqueira/EBAC-Analise-de-dados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaueSiqueira&repo=EBAC-Analise-de-dados&theme=tokyonight&cache_seconds=86400)](https://github.com/CaueSiqueira/EBAC-Analise-de-dados)
 
 ### Linguagens utilizadas
 
