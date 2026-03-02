@@ -35,8 +35,9 @@ Tenho experiência com Excel em tratamento e limpeza de dados brutos, análise e
 ---
 
 ### 🦠 Covid Dashboard  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Dashboard](https://img.shields.io/badge/Dashboard-0A66C2?style=for-the-badge)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-0A66C2?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Analytics-1f425f?style=for-the-badge)
 
 🔗 https://github.com/CaueSiqueira/Covid-Dashboard  
 
@@ -74,9 +75,7 @@ Tenho experiência com Excel em tratamento e limpeza de dados brutos, análise e
 
 🔗 https://github.com/CaueSiqueira/EBAC-Analise-de-dados  
 
-### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaueSiqueira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/CaueSiqueira/)
