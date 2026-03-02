@@ -4,11 +4,10 @@
 Analista de dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia, graduando em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília. Profissional comunicativo, analítico e com pensamento crítico.
 Tenho experiência com Excel em tratamento e limpeza de dados brutos, análise e identificação de padrões para prevenção de fraude, além de experiência na criação de dashboards. Desenvolvimento de projetos relevantes, como o de Data Wrangling da Loggi, onde tratei e visualizei dados logísticos utilizando Pandas, Matplotlib e Seaborn, além de usar Geopandas para aprimorar a visualização das coordenadas. Outro projeto envolveu a captura e transformação de dados de Covid gerando um dashboard interativo no Looker. Também fiz um projeto de Pipeline de dados no Telegram com o objetivo de coletar mensagens e as transformar em uma visualização tabular.
 
-### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaueSiqueira&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Habilidades em
+[<img src="https://img.shields.io/badge/-Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" height="30">]()
+[<img src="https://img.shields.io/badge/-Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" height="30">]()
 [<img src="https://img.shields.io/badge/-Análise_de_Dados-1f425f?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Análise de Dados" height="30">]()
 [<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30">]()
 [<img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30">]()
