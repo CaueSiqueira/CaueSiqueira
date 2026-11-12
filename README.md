@@ -10,7 +10,7 @@ Minha experiência também envolve tratamento, integração e validação de dad
 
 Ao longo da minha trajetória, desenvolvi projetos de análise de dados, automação de processos, pipelines em nuvem e visualização de indicadores, buscando transformar dados em informações claras e relevantes para o negócio.
 
-F## Formação
+## Formação
 
 **Universidade Católica de Brasília**
 
