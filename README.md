@@ -1,35 +1,66 @@
-### Olá 👋
+# Olá! 👋
 
-#### Sobre o Cauê
+## Sobre mim
 
-Analista de Dados formado pela EBAC – Escola Britânica de Artes Criativas e Tecnologia e graduado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília.
+Sou Analista de Dados, formado em Análise e Desenvolvimento de Sistemas pela Universidade Católica de Brasília, com experiência em Business Intelligence, análise e modelagem de dados.
 
-Profissional analítico, comunicativo e com pensamento crítico, com experiência em análise de dados, visualização de informações e desenvolvimento de dashboards voltados para apoio à tomada de decisão.
+Atuo com SQL, Python, Power BI, Looker, Excel e serviços AWS no desenvolvimento de Data Marts, dashboards, processos ETL e indicadores para áreas de marketing e operações.
 
-Possui experiência profissional como Analista de Dados na SID Tecnologia e atuação anterior como Suporte de Operações na Vidalink, trabalhando com tratamento, organização e análise de dados operacionais.
+Minha experiência também envolve tratamento, integração e validação de dados, análise de padrões operacionais e identificação de possíveis irregularidades, transformando informações em insights para apoiar a tomada de decisão.
 
-Também realizou cursos complementares de Power BI e SQL com Bruce Fonseca, aprofundando conhecimentos em modelagem de dados, DAX, consultas SQL e construção de dashboards analíticos.
-
-Desenvolveu projetos utilizando Python, SQL, Power BI, Pandas, Power Query, Matplotlib, Seaborn e Geopandas, incluindo análises logísticas, pipelines de dados, dashboards interativos e visualizações analíticas.
+Ao longo da minha trajetória, desenvolvi projetos de análise de dados, automação de processos, pipelines em nuvem e visualização de indicadores, buscando transformar dados em informações claras e relevantes para o negócio.
 
 ---
 
-### Habilidades em
+## Competências técnicas
 
-[<img src="https://img.shields.io/badge/-Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" height="30">]()
-[<img src="https://img.shields.io/badge/-Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" height="30">]()
-[<img src="https://img.shields.io/badge/-Análise_de_Dados-1f425f?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Análise de Dados" height="30">]()
-[<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30">]()
-[<img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="30">]()
-[<img src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" height="30">]()
-[<img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" height="30">]()
-[<img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="30">]()
-[<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="30">]()
-[<img src="https://img.shields.io/badge/-Matplotlib-1A1A1A?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" height="30">]()
-[<img src="https://img.shields.io/badge/-Seaborn-2B7489?style=for-the-badge&logoColor=white" alt="Seaborn" height="30">]()
-[<img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="30">]()
+**Linguagens e programação**
+
+SQL · Python · R · DAX · Linguagem M · VBA
+
+**Business Intelligence e visualização**
+
+Power BI · Looker · Tableau · Excel · Power Query
+
+**Cloud e engenharia de dados**
+
+Google BigQuery · AWS · Amazon S3 · Athena · Lambda · EventBridge · SageMaker
+
+**Análise e modelagem de dados**
+
+ETL/ELT · Data Wrangling · Modelagem de Dados · Modelagem Dimensional · Data Marts · Dashboards · KPIs · Estatística · Machine Learning
 
 ---
+
+## Formação
+
+**Universidade Católica de Brasília**
+
+Tecnólogo em Análise e Desenvolvimento de Sistemas — Concluído em 2026
+
+---
+
+## Cursos e certificações
+
+- EBAC — Analista de Dados
+- Data Science Academy — Power BI para Business Intelligence
+- Bruce Fonseca — Transforme Dados em Poder
+- Anthropic — AI Fluency for Students
+- Anthropic — AI Fluency for Educators
+
+---
+
+## Tecnologias
+
+[<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="28">](https://www.postgresql.org/)
+[<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28">](https://www.python.org/)
+[<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" height="28">](https://www.r-project.org/)
+[<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="28">](https://powerbi.microsoft.com/)
+[<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" height="28">](https://www.microsoft.com/microsoft-365/excel)
+[<img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker" height="28">](https://cloud.google.com/looker)
+[<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" height="28">](https://cloud.google.com/bigquery)
+[<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" height="28">](https://aws.amazon.com/)
+[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28">](https://pandas.pydata.org
 
 ## Projetos
 
