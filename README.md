@@ -10,24 +10,22 @@ Minha experiência também envolve tratamento, integração e validação de dad
 
 Ao longo da minha trajetória, desenvolvi projetos de análise de dados, automação de processos, pipelines em nuvem e visualização de indicadores, buscando transformar dados em informações claras e relevantes para o negócio.
 
-Formação
+F## Formação
 
-Universidade Católica de Brasília
+**Universidade Católica de Brasília**
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas — Concluído em 2026
+Tecnólogo em Análise e Desenvolvimento de Sistemas  
+<sub>Concluído em 2026</sub>
 
-Cursos e certificações
+---
 
-EBAC — Analista de Dados
+## Cursos e certificações
 
-Data Science Academy — Power BI para Business Intelligence
-
-Bruce Fonseca — Transforme Dados em Poder
-
-Anthropic — AI Fluency for Students
-
-Anthropic — AI Fluency for Educators
-
+- **EBAC** — Analista de Dados
+- **Data Science Academy** — Power BI para Business Intelligence
+- **Bruce Fonseca** — Transforme Dados em Poder
+- **Anthropic** — AI Fluency for Students
+- **Anthropic** — AI Fluency for Educators
 ## Tecnologias
 
 [<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" height="28">](https://www.postgresql.org/)
