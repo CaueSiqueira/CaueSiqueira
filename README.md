@@ -41,6 +41,16 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas
 [<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge" alt="GeoPandas" height="28">](https://geopandas.org/)
 ## Projetos
 
+
+### Projeto CS-LUBS Dashboard Comercial | Power BI
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-1f425f?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+
+🔗 https://github.com/CaueSiqueira/CS-LUBS-Dashboard-comercial
+
+
 ### Projeto de Logística | Power BI
 
 Dashboard logístico e financeiro desenvolvido em Power BI para monitoramento de KPI’s como OTIF, INFULL, ONTIME, pedidos, ocorrências, receita, custos e margem.
